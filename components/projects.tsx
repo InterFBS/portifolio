@@ -46,7 +46,7 @@ const projects: Project[] = [
   {
     id: 4,
     title: "API de Produtos",
-    description: "Dashboard interativo para visualização de dados com gráficos e relatórios personalizáveis.",
+    description: "Projeto backend para gerenciar produtos, incluindo funcionalidades de CRUD e funcionamento em Nuvem AWS.",
     image: "https://appmaster.io/api/_files/PqV7MuNwv89GrZvBd4LNNK/download",
     tags: ["Java", "Docker", "Spring Boot", "PostgresSQL", "AWS", "Hibernate"],
     githubUrl: "https://github.com/InterFBS/product_api",
