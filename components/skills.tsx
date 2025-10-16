@@ -14,13 +14,15 @@ const skills: Skill[] = [
   { name: "Next.js", level: 65, category: "frontend" },
   { name: "TypeScript", level: 75, category: "frontend" },
   { name: "Node.js", level: 70, category: "backend" },
+  { name: "Java", level: 76, category: "backend" },
   { name: "Express", level: 70, category: "backend" },
   { name: "MongoDB", level: 80, category: "backend" },
   { name: "PostgreSQL", level: 75, category: "backend" },
   { name: "Git", level: 70, category: "other" },
   { name: "GitHub", level: 85, category: "other" },
   { name: "UI/UX Design", level: 65, category: "other" },
-  { name: "Docker", level: 40, category: "other" },
+  { name: "CI/CD", level: 40, category: "other" },
+  { name: "Docker", level: 70, category: "other" },
 ]
 
 export function Skills() {
